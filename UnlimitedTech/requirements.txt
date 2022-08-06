@@ -19,7 +19,7 @@ MarkupSafe==1.1.1
 multidict==4.7.5
 pycparser==2.20
 rfc3986==1.4.0
-sanic==19.12.2
+sanic==20.12.7
 Sanic-Auth==0.2.0
 sanic-jinja2==0.7.5
 six==1.14.0
